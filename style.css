@@ -1,0 +1,71 @@
+body {
+    background-color: #1E1E1E;
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+    background: #22222E;
+}
+
+.header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+
+.portfolioimg {
+    width: 254px;
+    height: 308px;
+}
+
+.cvintro {
+    display: flex;
+    flex-direction: column;
+}
+
+.cvname {
+    margin: 66px 46px 6px 52px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.profilewrap {
+    margin: 0px 495px 0px 50px;
+}
+
+.profile {
+    margin: 0;
+    border: 10px hidden;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    background: #FFC905;
+}
+
+.exp {
+    margin: 29px 570px 11px 53px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.line {
+    margin: 0px 570px 11px 53px;
+    width: 17px;
+    height: 2px;
+    background: #FFC905;
+}
